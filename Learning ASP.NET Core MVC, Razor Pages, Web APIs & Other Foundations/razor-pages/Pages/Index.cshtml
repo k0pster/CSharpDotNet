@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+    ViewData["WelcomeMessage"] = "Welcome to my first Razor Pages app!";
+
+    var thanksMessage = "Thanks for visiting!";
+
+    string Greeting()
+    {
+        return ViewData["WelcomeMessage"] + " " + thanksMessage;
+    }
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @if (Model.ShowGreeting) 
+    {
+        <p>@Greeting()</p>
+    }
+
+    Here are some other project types to <a asp-protocol="https" asp-host="asp.net" asp-page="/Index">explore</a>:
+    <ul>
+        @foreach(var projectType in Model.OtherProjectTypes)
+        {
+            <li>@projectType</li>
+        }
+    </ul>
+</div>
+
+
