@@ -1,0 +1,18 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Sales Dashboard</h1>
+</div>
+
+<div class="text-center">
+    <div>New Sales amount <input type="text" id="saleAmount" /> 
+    <input type="button" id="send" value="Submit Sale" /></div>
+</div>
+
+<div class="text-center" id="largeSales">
+    <h3>Large New Sales</h3>
+</div>
