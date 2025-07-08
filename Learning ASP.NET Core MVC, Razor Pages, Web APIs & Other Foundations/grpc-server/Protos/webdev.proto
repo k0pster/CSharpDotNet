@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "grpc_server";
+
+
+package webdev;
+
+service WebDev {
+    rpc CreateProject(Project) returns (ProjectConfirmation);
+}
+
+message Project {
+    string name = 1;
+    int32 id = 2;
+}
+
+message ProjectConfirmation {
+    string msg = 1;
+}
