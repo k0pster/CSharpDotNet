@@ -1,0 +1,15 @@
+﻿@page
+@model razor_page_challange.Pages.BooksModel
+@{
+}
+
+<p>Recomended Books:</p>
+@foreach(string book in @Model.RecommededBooks)
+{
+    @book<br>
+}
+
+@section Welcome
+{
+    <h3>Welcome to my Recomended Books list!</h3>
+}
