@@ -1,0 +1,14 @@
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Work\Learning\LinkedIn\C# and .NET Essential Training\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
